@@ -21,3 +21,5 @@ function iterativeSolution(n) {
 
 console.log(recursive(5)); // 120
 console.log(iterativeSolution(5)); // 120
+
+module.exports = recursive;
